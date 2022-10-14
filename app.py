@@ -145,3 +145,5 @@ elif sidebar_main == 'Explore' :
         
         if select_year == 2022:
             st.error("Please select 2018 - 2021")
+
+
